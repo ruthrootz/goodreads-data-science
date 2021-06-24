@@ -1,2 +1,2 @@
 # goodreads-data-science
-a Kaggle project with my Goodreads data
+Kaggle projects with my Goodreads data
